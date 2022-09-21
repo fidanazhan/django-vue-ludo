@@ -1,0 +1,26 @@
+
+ACCOUNT API
+
+1. Create user API - DONE
+2. Test using Postman - DONE
+3. Test every validation
+
+GAME API
+
+1. Create game API with below functional requirements. - DONE
+
+   POST - Create game, 
+   GET - get game list
+   GET - get game detail
+   PUT - Update game
+   DELETE - delete game
+
+2. Test GAME API using Postman - DONE
+
+JOIN API
+
+1. Create Join API
+
+NOTIFICATION API
+
+ALL DONE
