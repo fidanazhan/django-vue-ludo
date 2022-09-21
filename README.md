@@ -90,7 +90,7 @@ be displayed with 'Join' button).
 ![Game Detail And Join Request Modal](https://user-images.githubusercontent.com/108860416/191574110-46cd8bed-9021-49f1-88b8-8e57087a613f.PNG)
 &nbsp;
 
-**The Notification page**, **Competition page** and **Settings page* is still in development.
+**The Notification page**, **Competition page** and **Settings page** is still in development.
 
 ## STATUS
 
