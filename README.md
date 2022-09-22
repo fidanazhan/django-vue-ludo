@@ -10,6 +10,7 @@ Sport App where users can host or participate for sport games in their local are
   -  [Requirement](#requirement)
   -  [Screenshot](#screenshot)
   -  [Status](#status)
+  -  [Similar App System](#similar-app-system)
   -  [Contact](#contact)
 
 ## **OVERVIEW**
@@ -95,6 +96,10 @@ be displayed with 'Join' button).
 ## STATUS
 
 Not Completed. Ongoing development.
+
+## SIMILAR APP SYSTEM
+
+Facebook friend request, Linkedin Job Request, etc..
 
 ## CONTACT 
 
